@@ -1,4 +1,5 @@
-# lekce07-zkusebni
+lekce07-zkusebni
 
 prvni pokus
 druha zmena
+zmenaPrvniVetev
