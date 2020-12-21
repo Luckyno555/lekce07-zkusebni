@@ -1,7 +1,11 @@
 lekce07-zkusebni
+
 prvni pokus
 druha zmena
+konfliktDruhacast
+zmenaKonfliktTadyBudeKonfliktVetev
 zmenaKonfliktPrvniVetev
 prvni-vetev
 zmenaPrvniVete
 zmenaPrvniVetev
+main
